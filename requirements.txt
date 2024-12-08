@@ -1,0 +1,11 @@
+os
+datetime
+time
+streamlit
+langchain
+langchain-community
+langchain-groq
+google-generativeai
+Pillow
+python-dotenv
+faiss-cpu
